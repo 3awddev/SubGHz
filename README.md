@@ -33,12 +33,19 @@ Wait: You must wait about 10 seconds before sending another message. This keeps 
 
 The Current Components : 
 2x ESP32 Development Boards
-2x Lora SX1278 Modules 
+
+2x Lora SX1278 Modules
+
 2x LCD 2004 with I2C Backpack
+
 2x M5Stack CardKB
+
 2x 18650 Battery Shields + 2x 18650 Lithium Batteries
 
 For Wiring and Prototyping : 
 2x Breadboards (400 tie-points)
+
 4x 4.7kΩ Resistors
+
 Jumper Wires (Dupont Cables): * Male-to-Female + * Male-to-Male
+
