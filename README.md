@@ -31,7 +31,7 @@ Send: Press Enter.
 
 Wait: You must wait about 10 seconds before sending another message. This keeps the connection stable.
 
-The Current Components : 
+# The Current Components : (I Bought None Of them)
 2x ESP32 Development Boards
 
 2x Lora SX1278 Modules
@@ -42,7 +42,8 @@ The Current Components :
 
 2x 18650 Battery Shields + 2x 18650 Lithium Batteries
 
-For Wiring and Prototyping : 
+# For Wiring and Prototyping : 
+
 2x Breadboards (400 tie-points)
 
 4x 4.7kΩ Resistors
