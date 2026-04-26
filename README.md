@@ -1,4 +1,8 @@
 # SubGHz
+
+<img width="1536" height="864" alt="lora_hardware_blueprint" src="https://github.com/user-attachments/assets/42fbd375-ed9f-4830-8b6a-24c4737156e4" />
+
+
 A project for my own Real - timing chatting Infrastructure And it's P2P !
 This project is a way to send text messages without using the internet, Wi-Fi, or phone signals. It uses two handheld devices that talk directly to each other using radio waves.
 
